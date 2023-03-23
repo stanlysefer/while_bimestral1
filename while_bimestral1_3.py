@@ -1,4 +1,3 @@
-
 #Ejemplo de un menú
 
 n = int(input("Menú: 1(Ver números), 0(Salir) "))

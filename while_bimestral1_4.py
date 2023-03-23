@@ -10,6 +10,6 @@ print("Fin.")
 #Ejemplo 2
 
 x=0
-while x<14:
-    print("STANLYSEFER")
-    x+=1
+while x<1000:
+    print("stanlysefer")
+x+=1

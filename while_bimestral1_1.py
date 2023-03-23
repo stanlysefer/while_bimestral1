@@ -1,4 +1,3 @@
-
 import math
 
 n = int(input("Digite un número positivo: "))
